@@ -1,0 +1,25 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "this is an introduction to typescript",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/githubjsnew/ts-book.git"
+  },
+  "keywords": [
+    "typescript",
+    "Js",
+    "NPM",
+    "git"
+  ],
+  "author": "Youssef B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/githubjsnew/ts-book/issues"
+  },
+  "homepage": "https://github.com/githubjsnew/ts-book#readme"
+}
